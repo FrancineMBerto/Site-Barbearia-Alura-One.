@@ -8,7 +8,7 @@ Site desenvolvido através das aulas do curso de HTML5 e CSS3. Projeto One Alura
 - CSS
 
 ### Informações Adicionais
-Apresento o projeto de uma barbearia com design minimalista e paleta de cores em tons de cinza. O site, inclui formulários, vídeos, mapas e uma seção de produtos.
+Apresento o projeto interativo de uma barbearia com design minimalista e paleta de cores em tons de cinza. O site, inclui formulários, vídeo, mapas e uma seção de produtos.
 
 #### Como acessar
 Para acessar o projeto, você pode clonar o repositório no GitHub ou utilizar o link fornecido.
